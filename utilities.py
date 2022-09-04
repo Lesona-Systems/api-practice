@@ -11,6 +11,3 @@ def get_token():
 
 def get_vanity_url():
     return input('What is your Steam URL?: ')
-
-if "__name__" == "__main__":
-    main()
